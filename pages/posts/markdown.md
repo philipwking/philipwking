@@ -3,10 +3,10 @@ title: Nextra & Next.js
 date: 2022/10/19
 description: Statically serve webpages with markdown.
 tag: web development
-author: You
+author: Philip King
 ---
 
-# Nextra & Next.js?
+# Nextra & Next.js
 
 ### Why Static?
 Static rendering has multiple benefits including
