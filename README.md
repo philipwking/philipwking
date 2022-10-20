@@ -6,4 +6,4 @@ I decided to scrap my old portfolio/blog and start from scratch with some new te
 
 Reach out to me at hellophil@philipwking.com
 
-[Check it out here.](philipwking.com)
+[Check it out here.](https://philipwking.com)
