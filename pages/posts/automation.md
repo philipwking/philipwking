@@ -1,3 +1,12 @@
+---
+title: What Will AI Automate First?
+date: 2022/10/20
+description: Automation
+tag: artificial intelligence
+author: Philip King
+---
+
+
 # What Will AI Automate First?
 
 We're living in a golden age of automation. And that's not just because we have computers that can do all sorts of things better than humans can—it's also because artificial intelligence (AI) is getting smarter at an exponential rate. Soon enough, AI will be able to automate many jobs that people have traditionally done themselves: writing emails, creating images and videos, composing music...the list goes on! It's going to be pretty overwhelming for humans who work with these technologies every day—but it will also create some very exciting opportunities for them as well. So how does this affect you? What's your role as an employee? An artist? A parent? Here are some ideas about what your job might look like in the future:
