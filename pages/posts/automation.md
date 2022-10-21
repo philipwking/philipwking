@@ -50,7 +50,6 @@ AI could be used in film production, animation and game design. The first step i
 
 AI will be able to write scripts. AI will be able to generate video content. AI will be able to create video games. AI will be able to create video effects, including the ability for a computer program or algorithm (a neural network) that has been trained with data from other sources such as images and text, then used by humans in their workflows without requiring any human intervention at all!
 
-AI is already being used by companies like Google's DeepMind division which has developed an algorithm called AlphaGo Zero that beat world champion Lee Sedol in three out of five matches during an exhibition match held at Wuzhen International Gaming Competition in China earlier this year before winning against him again later on during another exhibition match held at Guangzhou Universiade Park Stadium over two days back in September 2018; meanwhile Microsoft Research India has also released results showing how they've successfully deployed AI technology into their Azure Machine Learning Platforms thus far resulting in improved accuracy rates compared with traditional methods such as linear regression models which were previously used instead until now."
 
 ### 8. Music composition (and music theory)
 
