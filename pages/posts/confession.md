@@ -1,6 +1,6 @@
 ---
 title: copy.ai
-date: 2022/11/20
+date: 2022/10/21
 description: I did not write those last two blog posts
 tag: artificial intelligence
 author: Philip King
