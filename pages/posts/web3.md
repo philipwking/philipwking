@@ -1,7 +1,7 @@
 ---
-title: Blockchain: Initial Impressions
+title: Blockchain Initial Impressions
 date: 2022/11/09
-description: Blockchain & Web3, are they useful?
+description: Blockchain and Web3
 tag: blockchain
 author: Philip King
 ---
